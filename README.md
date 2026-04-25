@@ -91,10 +91,10 @@ python main_switch.py
 | Mode selection | Switch control mode |
 
 ## 📸 Output
-![gesture](screenshots/move.png)  
-![keyboard](screenshots/keyboard.png)  
-![right_click](screenshots/right_click.png)
-![screenshot](screenshots/screenshot.png)
+![gesture](move.png)  
+![keyboard](keyboard.png)  
+![right_click](right_click.png)
+![screenshot](screenshot.png)
 
 ## 🌍 Use Case
 - Assistive technology for users with motor impairments
