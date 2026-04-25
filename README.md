@@ -69,31 +69,43 @@ Hands-Free-Computer-Control-System/
 ---
 
 ## 🛠️ Tech Stack
-- Python  
-- OpenCV  
-- MediaPipe  
-- Scikit-learn (SVM)  
-- NumPy  
-- PyAutoGUI  
-- Keyboard  
-
----
+- Python
+- OpenCV
+- MediaPipe
+- Scikit-learn (SVM)
+- NumPy
+- PyAutoGUI
+- Keyboard
 
 ## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
+pip install -r requirements.txt  
 python main_switch.py
--------
 
-🎮 Controls
-Input	                      Action
-Hand movement	              Cursor control
-Gesture	                    Click / Right-click
-Open palm	                  Screenshot
-Head movement	              Cursor navigation
-Mode selection	            Switch control mode
+## 🎮 Controls
+| Input | Action |
+|------|--------|
+| Hand movement | Cursor control |
+| Gesture | Click / Right-click |
+| Open palm | Screenshot |
+| Head movement | Cursor navigation |
+| Mode selection | Switch control mode |
 
+## 📸 Output
+![Gesture](screenshots/move.png)  
+![Keyboard](screenshots/keyboard.png)  
+![Right Click](screenshots/right_click.png)
+![Screen Shot](screenshots/screenshot.png)
 
-📌 Conclusion
+## 🌍 Use Case
+- Assistive technology for users with motor impairments
+- Touchless computer interaction
+- Smart human-computer interfaces
+
+## 🔮 Future Improvements
+- Voice command integration
+- Deep learning-based gesture recognition
+- Personalized user adaptation
+- Mobile and IoT integration
+
+## 📌 Conclusion
 This project demonstrates how computer vision and machine learning can be combined to build an efficient, low-cost, and accessible human-computer interaction system.
